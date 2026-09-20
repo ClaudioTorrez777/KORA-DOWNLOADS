@@ -45,7 +45,7 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 * ▶️ Corrección del reproductor: la expansión del reproductor ya no se queda congelada durante la animación.
 * 🖼️ Mejoras en la vista de artista: la carátula ocupa correctamente la cabecera y el degradado termina en su borde inferior.
 
-[Descargar v1.2.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/v1.2.0)
+[Descargar v1.2.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/1.2.0)
 
 ### `v1.1.0`
 
