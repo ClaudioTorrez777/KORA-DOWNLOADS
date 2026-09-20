@@ -6,7 +6,7 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 
 ## Descargar
 
-**Última versión: `v1.1.1`**
+**Última versión: `v1.2.0`**
 
 [![Descargar APK](https://img.shields.io/badge/Descargar-APK-2ea44f?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/latest)
 
@@ -24,9 +24,28 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 * 🎤 Visualización de letras
 * 📊 Canciones más escuchadas de la semana
 * 🏷️ Normalización de géneros para una clasificación más sencilla
+* 📱 Widgets de pantalla de inicio
+* 🎛️ Controles multimedia desde pantalla de bloqueo y notificaciones
 * 🎨 Interfaz limpia e intuitiva
 
 ## Versiones
+
+### `v1.2.0`
+
+* 📱 Incorporación de widgets de pantalla de inicio en cuatro tamaños:
+
+  * `2×2` — Carátula.
+  * `4×1` — Reproductor compacto.
+  * `4×2` — Reproductor.
+  * `4×3` — Panel para tablets.
+* 🎛️ Los widgets permiten controlar la sesión multimedia y continúan funcionando con la aplicación cerrada.
+* ⏱️ Barra de progreso arrastrable desde la pantalla de bloqueo y las notificaciones, mostrando correctamente la duración de la pista.
+* 📊 Mejora del contador de reproducciones: una canción se registra después de **10 segundos de reproducción**, o a la mitad de su duración si es más corta.
+* 🎵 Evita que cambiar rápidamente de canción incremente incorrectamente el ranking de reproducciones.
+* ▶️ Corrección del reproductor: la expansión del reproductor ya no se queda congelada durante la animación.
+* 🖼️ Mejoras en la vista de artista: la carátula ocupa correctamente la cabecera y el degradado termina en su borde inferior.
+
+[Descargar v1.2.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/v1.2.0)
 
 ### `v1.1.0`
 
@@ -34,7 +53,7 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 * 📊 Incorporación de las canciones más escuchadas durante la semana.
 * 🏷️ Mejoras en la normalización de géneros para facilitar su clasificación y búsqueda.
 
-[Descargar v1.1.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/1.1.0)
+[Descargar v1.1.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/v1.1.0)
 
 ### `v1.0.0`
 
