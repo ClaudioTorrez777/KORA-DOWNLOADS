@@ -28,13 +28,13 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 
 ## Versiones
 
-### `v1.1.1`
+### `v1.1.0`
 
 * 🎨 Mejoras visuales y de interfaz.
 * 📊 Incorporación de las canciones más escuchadas durante la semana.
 * 🏷️ Mejoras en la normalización de géneros para facilitar su clasificación y búsqueda.
 
-[Descargar v1.1.1](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/v1.1.1)
+[Descargar v1.1.1](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/1.1.0)
 
 ### `v1.0.0`
 
