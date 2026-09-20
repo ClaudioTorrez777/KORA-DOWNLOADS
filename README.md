@@ -54,5 +54,5 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 Kora es un producto desarrollado y mantenido por **Kallix Studio**, formando parte de su familia de soluciones de software.
 
 <p align="center">
-  © Kallix Studio | Desarrollador x ClaudioTorrez777
+  © Kallix Studio | Desarrollador ClaudioTorrez777
 </p>
