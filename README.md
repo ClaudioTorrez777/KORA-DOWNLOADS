@@ -40,6 +40,7 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
   * `4×3` — Panel para tablets.
 * 🎛️ Los widgets permiten controlar la sesión multimedia y continúan funcionando con la aplicación cerrada.
 * ⏱️ Barra de progreso arrastrable desde la pantalla de bloqueo y las notificaciones, mostrando correctamente la duración de la pista.
+* 🔀 Mejoras en el control de **aleatorio** y adición de un **botón para cerrar** el panel multimedia.
 * 📊 Mejora del contador de reproducciones: una canción se registra después de **10 segundos de reproducción**, o a la mitad de su duración si es más corta.
 * 🎵 Evita que cambiar rápidamente de canción incremente incorrectamente el ranking de reproducciones.
 * ▶️ Corrección del reproductor: la expansión del reproductor ya no se queda congelada durante la animación.
