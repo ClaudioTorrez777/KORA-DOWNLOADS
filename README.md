@@ -30,6 +30,19 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 
 ## Versiones
 
+### `v1.3.0`
+
+* 📁 **Nueva forma de agregar música:** ahora puedes elegir entre una búsqueda inteligente o seleccionar manualmente una carpeta.
+* 📱 **Búsqueda inteligente:** Kora puede buscar automáticamente tu música en carpetas como Música, WhatsApp, Telegram, Quick Share y Descargas.
+* 💾 **Mejor soporte para almacenamiento externo:** la búsqueda de música también funciona con tarjetas SD compatibles.
+* ⚡ **Animaciones más rápidas:** la navegación por la aplicación ahora se siente más rápida y fluida.
+* 🎨 **Mejoras en los colores de las portadas:** los colores extraídos de las carátulas ahora son más intensos y consistentes entre el tema claro y oscuro.
+* 🏠 **Configuración de música simplificada:** la selección de carpetas ahora funciona de la misma manera desde el inicio y desde Ajustes.
+* 🐛 **Correcciones y mejoras de estabilidad:** se corrigieron problemas relacionados con carpetas duplicadas y con la configuración inicial de la biblioteca.
+
+[Descargar v1.3.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/1.3.0)
+
+
 ### `v1.2.0`
 
 * 📱 Incorporación de widgets de pantalla de inicio en cuatro tamaños:
