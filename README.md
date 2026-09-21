@@ -6,12 +6,12 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 
 ## Descargar
 
-**Última versión: `v1.2.0`**
+**Última versión: `v1.3.0`**
 
-[![Descargar APK](https://img.shields.io/badge/Descargar-APK-2ea44f?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/latest)
+[![Descargar APK](https://img.shields.io/badge/Descargar-APK-2ea44f?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/latest)   Da click aqui
+
 
 [Ver todas las versiones](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases)
-
 ## Características
 
 * 🎧 Reproducción de audio Hi-Fi
