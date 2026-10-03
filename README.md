@@ -6,7 +6,7 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 
 ## Descargar
 
-**Última versión: `v1.3.0`**
+**Última versión: `v1.4.0`**
 
 [![Descargar APK](https://img.shields.io/badge/Descargar-APK-2ea44f?style=for-the-badge\&logo=android\&logoColor=white)](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/latest)   Da click aqui
 
@@ -29,6 +29,24 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 * 🎨 Interfaz limpia e intuitiva
 
 ## Versiones
+
+### `v1.4.0`
+
+* 🎤 **Letras en línea sincronizadas:** Kora ahora busca automáticamente las letras de las canciones mediante LRCLIB y las descarga en segundo plano.
+* 💾 **Letras disponibles sin conexión:** las letras descargadas se guardan en el dispositivo para poder consultarlas posteriormente sin internet.
+* 🎶 **Modo karaoke:** las letras sincronizadas avanzan automáticamente con la canción, resaltando la línea actual y permitiendo tocar cualquier línea para saltar a ese momento.
+* 📝 **Letras sin sincronizar:** cuando una letra no tiene tiempos, Kora muestra el texto completo e indica que no está sincronizado.
+* 🔎 **Búsquedas más precisas:** Kora selecciona la versión de la letra más cercana a la duración de la canción para reducir desfases entre la letra y el audio.
+* ⚙️ **Control de letras en línea:** se agregó la opción **Letras en línea** en `Ajustes › Biblioteca`, activada por defecto. Al desactivarla, Kora conserva las letras que ya fueron descargadas.
+* 📡 **Mejor gestión de búsquedas:** Kora evita realizar búsquedas innecesarias al cambiar rápidamente de canción y controla las consultas para reducir problemas con el servidor.
+* 🎨 **Nueva identidad visual:** incorporación del logo oficial de Kora en la aplicación.
+* 🚀 **Nueva pantalla de carga:** ahora Kora muestra un único logo oficial sobre un fondo oscuro, con una entrada suave y sin el destello blanco inicial de Android.
+* 📱 **Barra lateral renovada:** en pantallas angostas y orientación horizontal, la barra lateral ahora utiliza el símbolo oficial de Kora en SVG.
+* ▶️ **Cambios de canción más confiables:** el reproductor ahora notifica correctamente a toda la aplicación cuando cambia de canción.
+* 🧪 **Más pruebas automáticas:** se agregaron **25 nuevas pruebas**, alcanzando un total de **86 pruebas**.
+
+[Descargar v1.4.0](https://github.com/ClaudioTorrez777/KORA-DOWNLOADS/releases/tag/1.4.0)
+
 
 ### `v1.3.0`
 
