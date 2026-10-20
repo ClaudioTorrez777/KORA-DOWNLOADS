@@ -31,17 +31,17 @@ Diseñado para ofrecer una experiencia de reproducción enfocada en **audio Hi-F
 ## Versiones
 
 ### `v1.5.0`
-❤️ Favoritos en la barra de navegación: la barra ahora muestra Inicio, Biblioteca, Playlists y Favoritos para acceder a tus canciones favoritas con un solo toque.
-⚙️ Nuevo acceso a Ajustes: Ajustes se abre desde el ícono de engranaje en Inicio, que reemplaza al antiguo ícono de tres rayas.
-🔃 Ordenar Favoritos: ahora puedes ordenar tus favoritos por fecha en que los agregaste (más recientes o más antiguos), nombre (A → Z o Z → A), artista, álbum o duración.
-🔎 Búsqueda en Favoritos: encuentra rápidamente una canción por su nombre, artista o álbum.
-📋 Búsqueda y orden en playlists: cada playlist ahora tiene su propio buscador y puede ordenarse por nombre, artista, álbum o duración, sin perder tu orden personalizado.
-✋  Reordenamiento seguro: arrastrar canciones dentro de una playlist solo está disponible en "Orden de la playlist", para evitar cambios accidentales mientras buscas u ordenas.
-💾 La cola se conserva: las canciones agregadas con "Añadir a la cola" o "Reproducir a continuación" ahora se guardan y se mantienen al volver a abrir la aplicación.
-⚡  Animaciones a 60 fps: en teléfonos de gama media, las transiciones entre pantallas, la apertura del reproductor y los paneles inferiores ahora se sienten mucho más fluidos.
-▶️ Reproductor más fluido: la pantalla de reproducción consume menos recursos mientras suena una canción, y el título y el artista ya no se desplazan al cambiar de pista.
-🔄 Rotación de pantalla más suave: al girar el dispositivo, la interfaz cambia con un fundido, sin el efecto de zoom.
-🧪 Más pruebas automáticas: se agregaron 5 nuevas pruebas, alcanzando un total de 91 pruebas.
+*❤️ Favoritos en la barra de navegación: la barra ahora muestra Inicio, Biblioteca, Playlists y Favoritos para acceder a tus canciones favoritas con un solo toque.
+*⚙️ Nuevo acceso a Ajustes: Ajustes se abre desde el ícono de engranaje en Inicio, que reemplaza al antiguo ícono de tres rayas.
+*🔃 Ordenar Favoritos: ahora puedes ordenar tus favoritos por fecha en que los agregaste (más recientes o más antiguos), nombre (A → Z o Z → A), artista, álbum o duración.
+*🔎 Búsqueda en Favoritos: encuentra rápidamente una canción por su nombre, artista o álbum.
+*📋 Búsqueda y orden en playlists: cada playlist ahora tiene su propio buscador y puede ordenarse por nombre, artista, álbum o duración, sin perder tu orden personalizado.
+*✋  Reordenamiento seguro: arrastrar canciones dentro de una playlist solo está disponible en "Orden de la playlist", para evitar cambios accidentales mientras buscas u ordenas.
+*💾 La cola se conserva: las canciones agregadas con "Añadir a la cola" o "Reproducir a continuación" ahora se guardan y se mantienen al volver a abrir la aplicación.
+*⚡  Animaciones a 60 fps: en teléfonos de gama media, las transiciones entre pantallas, la apertura del reproductor y los paneles inferiores ahora se sienten mucho más fluidos.
+*▶️ Reproductor más fluido: la pantalla de reproducción consume menos recursos mientras suena una canción, y el título y el artista ya no se desplazan al cambiar de pista.
+*🔄 Rotación de pantalla más suave: al girar el dispositivo, la interfaz cambia con un fundido, sin el efecto de zoom.
+*🧪 Más pruebas automáticas: se agregaron 5 nuevas pruebas, alcanzando un total de 91 pruebas.
 
 ### `v1.4.0`
 
